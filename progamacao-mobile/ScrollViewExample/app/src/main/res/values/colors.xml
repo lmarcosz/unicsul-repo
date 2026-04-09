@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cherry">#AD343E</color>
+    <color name="grey">#474747</color>
+    <color name="gold">#F2AF29</color>
+    <color name="eggshell">#E0E0CE</color>
+</resources>

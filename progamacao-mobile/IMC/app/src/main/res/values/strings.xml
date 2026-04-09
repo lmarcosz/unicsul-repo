@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC</string>
+    
+    <string name="p1">
+        O IMC ou Índice de Massa Corporal é uma medida internacionalmente reconhecida que auxilia na avaliação do estado nutricional de uma pessoa. É considerado um importante indicador, pois leva em consideração a altura e o peso da pessoa.
+    </string>
+    
+    <string name="p2">
+        A sigla IMC significa “Índice de Massa Corporal” e é uma das formas de avaliação corporal recomendada pela OMS (Organização Mundial de Saúde) para classificação do estado antropométrico, ou seja, da composição corporal do indivíduo.
+    </string>
+    
+    <string name="p3">
+        Além disso, o IMC é um dos parâmetros utilizados para classificar a composição corporal de uma pessoa. Isso porque ele avalia se o peso está adequado para a estatura. Por isso, não é incomum que ele seja aferido durante exames de check-up, por exemplo.
+    </string>
+    
+    <string name="p4">
+        
+    </string>
+
+</resources>

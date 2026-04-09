@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScrollViewExample</string>
+
+    <string name="tituloCalculadora_PT">Calculadora</string>
+
+    <string name="txCalculadora_PT">
+        \n
+        Uma calculadora eletrônica é tipicamente um dispositivo eletrônico portátil usado para realizar cálculos, variando de aritmética básica a matemática complexa.
+\n\n
+A primeira calculadora eletrônica de estado sólido foi criada no início da década de 1960. Dispositivos de bolso tornaram-se disponíveis na década de 1970, especialmente depois que o Intel 4004, o primeiro microprocessador, foi desenvolvido pela Intel para a empresa japonesa de calculadoras Busicom.
+\n\n
+As calculadoras eletrônicas modernas variam de modelos baratos do tamanho de um cartão de crédito a modelos de mesa robustos com impressoras integradas. Eles se tornaram populares em meados da década de 1970, quando a incorporação de circuitos integrados reduziu seu tamanho e custo. No final daquela década, os preços caíram a ponto de uma calculadora básica ser acessível à maioria e se tornarem comuns nas escolas
+\n\n
+Os sistemas operacionais de computador desde o início do Unix incluíam programas de calculadora interativa, como dc e hoc, e o BASIC interativo poderia ser usado para fazer cálculos na maioria dos computadores domésticos das décadas de 1970 e 1980. As funções da calculadora estão incluídas na maioria dos smartphones, tablets e dispositivos do tipo assistente digital pessoal (PDA).
+\n\n
+Além das calculadoras de uso geral, existem aquelas projetadas para mercados específicos. Por exemplo, existem calculadoras científicas que incluem cálculos trigonométricos e estatísticos. Algumas calculadoras até têm a capacidade de fazer álgebra computacional. Calculadoras gráficas podem ser usadas para grafar funções definidas na linha real, ou espaço euclidiano de dimensões superiores. A partir de 2016, calculadoras básicas custam pouco, mas modelos científicos e gráficos tendem a custar mais.
+\n\n
+Com a disponibilidade muito ampla de smartphones e similares, calculadoras de hardware dedicadas, embora ainda amplamente utilizadas, são menos comuns do que já foram. Em 1986, as calculadoras ainda representavam cerca de 41% da capacidade mundial de hardware de uso geral para computar informações. Em 2007, esse número caiu para menos de 0,05%.
+    </string>
+
+    <string name="tituloCalculadoraBasica_PT">Calculadora Básica</string>
+
+</resources>

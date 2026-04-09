@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".CalculoActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="15dp"
+        android:text="Altura (cm)"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="15dp"
+        android:inputType="numberDecimal"
+        android:id="@+id/altura"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="15dp"
+        android:text="Massa (Kg)"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="15dp"
+        android:inputType="numberDecimal"
+        android:id="@+id/peso"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textColor="#2196F3"
+        android:text="IMC: 0.00 \nClassificação: "
+        android:id="@+id/resultado"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginVertical="20dp"
+        android:text="Calcular"
+        android:textSize="20dp"
+        android:onClick="calcularIMC"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginVertical="20dp"
+        android:text="Retornar ao Início"
+        android:textSize="20dp"
+        android:onClick="retrocederPagina"/>
+
+
+</LinearLayout>
